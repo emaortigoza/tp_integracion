@@ -18,3 +18,6 @@ En este desafío, verás un número en binario y deberás adivinar su equivalent
 - En el Nivel 2, si el usuario responde correctamente, gana el juego.
 
 
+
+
+Pd: por problemas personales y por no poder coordinar dias y horarios con mis compañeros he realizado solo el tp. Se wue no cumple con gran parte de lo requerido pero por cuestiones de tiempo ( trabajo y familia) no pude cumplir con todo lo requerido
